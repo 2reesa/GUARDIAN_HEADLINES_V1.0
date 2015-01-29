@@ -1,0 +1,32 @@
+{
+    "appKeys": {
+        "KEY_HEADLINES": 1
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "arees1309@gmail.com",
+    "longName": "guardian_headlines",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/MyUnderwood.ttf",
+                "name": "FONT_MY_UNDERWOOD_16",
+                "type": "font"
+            },
+            {
+                "file": "fonts/MyUnderwood.ttf",
+                "name": "FONT_MY_UNDERWOOD_24",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "guardian_headlines",
+    "uuid": "427892f8-5f70-46f1-a9ba-589ce843276a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
